@@ -1,0 +1,11 @@
+backend/node_modules/
+*.log
+*.eslintrc.js
+keyfile.json
+local.json
+.idea/
+.firebaserc
+database.rules.json
+firebase.json
+firebase-debug.log
+.env
